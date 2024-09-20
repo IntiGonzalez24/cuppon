@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    margin-left: 200px;
+    margin-right: 230px;
+}
+h2{
+    color: #28A745;
+    text-align: left;
+}
+.precioGeneral{
+    
+    display: flex;
+    justify-content: end;
+}
+.precio{
+    font-size:20px ;
+    color: #28A745;
+}
+.precio1{
+    margin-right: 20px;
+    margin-top: 4px;
+}
+.caja1{
+  background-color: #28A745;
+  
+}
+.segundo{
+    margin-top: 50px;
+}
+.primero{
+    margin-top: 30px;
+}
+.color{
+    background-color: #28A745;
+}
+.cupon{
+    width: 120px;
+    height: 40px;
+    
+}
+.barra{
+    font-family: "Roboto";
+    color: white;
+    
+}
+.tituloCard{
+    font-family: "Roboto", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+}
+.tituloParrafo{
+    font-family: "Roboto", sans-serif;
+    font-weight:normal;
+    font-style: normal;
+    font-size: 16px;
+    color:#707070;
+}
+.formulario{
+    background-color: #28A745;
+    height: 250px;
+    width: 1400px;
+    
+
+}
+.tituloUltimo{
+    margin-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-weight:normal;
+    font-style: normal;
+    font-size: 20px;
+
+}
+.pie{
+    width: 200px;
+    height: 100px;
+}
+.cupon-2{
+width: 82px;
+height: 24px;
+
+}
+.ultimo{
+    font-family: "Roboto", sans-serif;
+    font-weight:normal;
+    font-style: normal;
+    font-size: 16px;
+    color:#707070;
+    
+}
